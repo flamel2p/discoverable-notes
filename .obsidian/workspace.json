@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pome.md",
+                "file": "Tools/Marketing/Pomelli by Google Labs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pome"
+              "title": "Pomelli by Google Labs"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pome.md",
+                "file": "Tools/Marketing/Pomelli by Google Labs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pome"
+              "title": "Pomelli by Google Labs"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pome.md",
+                "file": "Tools/Marketing/Pomelli by Google Labs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pome"
+              "title": "Backlinks for Pomelli by Google Labs"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pome.md",
+                "file": "Tools/Marketing/Pomelli by Google Labs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pome"
+              "title": "Outgoing links from Pomelli by Google Labs"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pome.md",
+                "file": "Tools/Marketing/Pomelli by Google Labs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pome"
+              "title": "Outline of Pomelli by Google Labs"
             }
           }
         ]
@@ -199,11 +199,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cb51af7d87fc089",
+  "active": "1f14715a51fd6987",
   "lastOpenFiles": [
-    "Marketing",
+    "Tools/Marketing",
     "Tools",
     "Untitled.md",
-    "Pome.md"
+    "Tools/Marketing/Pomelli by Google Labs.md"
   ]
 }
