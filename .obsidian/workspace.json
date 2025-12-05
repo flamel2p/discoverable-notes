@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Design/Superdesign.md",
+                "file": "Github.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Superdesign"
+              "title": "Github"
+            }
+          },
+          {
+            "id": "12c58879badd468b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -151,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Design/Superdesign.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Superdesign"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -170,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Design/Superdesign.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Superdesign"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -213,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Design/Superdesign.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Superdesign"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -241,12 +255,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4171f9d91aac758e",
+  "active": "12c58879badd468b",
   "lastOpenFiles": [
-    "Tools/Design/Stitch by Google.md",
-    "Tools/Design/Superdesign.md",
-    "AI.md",
     "Github.md",
+    "Untitled.md",
+    "Tools/Design/Superdesign.md",
+    "Tools/Design/Stitch by Google.md",
+    "AI.md",
     "Tools/Marketing/Pomelli by Google Labs.md",
     "Tools/Design",
     "Tools/Marketing",
