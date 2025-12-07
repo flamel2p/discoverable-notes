@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Motion.md",
+                "file": "React/Animation/Motion.md",
                 "mode": "source",
                 "source": false
               },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Motion.md",
+                "file": "React/Animation/Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Motion.md",
+                "file": "React/Animation/Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Motion.md",
+                "file": "React/Animation/Motion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -244,11 +244,12 @@
   },
   "active": "8cb51af7d87fc089",
   "lastOpenFiles": [
+    "React/Animation",
     "Frontend",
     "Backend",
     "DevOps",
     "Tools/Design/Stitch by Google.md",
-    "React/Motion.md",
+    "React/Animation/Motion.md",
     "Tools/Design/Superdesign.md",
     "React",
     "AI.md",
