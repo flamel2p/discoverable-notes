@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Animation/Freelance.md",
+                "file": "Freelance.md",
                 "mode": "source",
                 "source": false
               },
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Animation/Freelance.md",
+                "file": "Freelance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Animation/Freelance.md",
+                "file": "Freelance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Animation/Freelance.md",
+                "file": "Freelance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -256,10 +256,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a474aa8e18a5cf25",
+  "active": "8cb51af7d87fc089",
   "lastOpenFiles": [
     "React/Animation/Motion.md",
-    "React/Animation/Freelance.md",
+    "Freelance.md",
     "Freelance",
     "React/Animation",
     "Frontend",
