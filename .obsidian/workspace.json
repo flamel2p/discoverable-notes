@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/App/App Preview Tool.md",
+                "file": "Productivity/Design/Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "App Preview Tool"
+              "title": "Tools"
             }
           }
         ],
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/App/App Preview Tool.md",
+                "file": "Productivity/Design/Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for App Preview Tool"
+              "title": "Backlinks for Tools"
             }
           },
           {
@@ -198,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/App/App Preview Tool.md",
+                "file": "Productivity/Design/Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from App Preview Tool"
+              "title": "Outgoing links from Tools"
             }
           },
           {
@@ -241,13 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/App/App Preview Tool.md",
+                "file": "Productivity/Design/Tools.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of App Preview Tool"
+              "title": "Outline of Tools"
             }
           }
         ]
@@ -272,10 +272,15 @@
   },
   "active": "8cb51af7d87fc089",
   "lastOpenFiles": [
+    "Productivity/Flow/Untitled 1.md",
+    "Productivity/Design/Tools.md",
+    "Productivity/Flow/Tools.md",
+    "Productivity/Design",
+    "Productivity/Flow",
+    "Frontend/App/App Preview Tool.md",
     "Productivity",
     "Frontend/App",
     "Freelance.md",
-    "Frontend/App/App Preview Tool.md",
     "Frontend/React/Animation/Motion.md",
     "Freelance",
     "Frontend/React/Animation",
@@ -288,10 +293,7 @@
     "AI.md",
     "Github.md",
     "Discovery.md",
-    "Discovery",
     "Discovery/One Person Business Methodology.md",
-    "Tools/Marketing/Pomelli by Google Labs.md",
-    "Tools/Design",
-    "Tools/Marketing"
+    "Tools/Marketing/Pomelli by Google Labs.md"
   ]
 }
