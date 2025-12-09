@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Animation/Motion.md",
+                "file": "Frontend/React/Animation/Motion.md",
                 "mode": "source",
                 "source": false
               },
@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "App.md",
+                "file": "Frontend/App/App Preview Tool.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "App"
+              "title": "App Preview Tool"
             }
           }
         ],
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "App.md",
+                "file": "Frontend/App/App Preview Tool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for App"
+              "title": "Backlinks for App Preview Tool"
             }
           },
           {
@@ -198,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "App.md",
+                "file": "Frontend/App/App Preview Tool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from App"
+              "title": "Outgoing links from App Preview Tool"
             }
           },
           {
@@ -241,13 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "App.md",
+                "file": "Frontend/App/App Preview Tool.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of App"
+              "title": "Outline of App Preview Tool"
             }
           }
         ]
@@ -270,20 +270,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6e6e984450b848c4",
+  "active": "8cb51af7d87fc089",
   "lastOpenFiles": [
-    "App",
+    "Productivity",
+    "Frontend/App",
     "Freelance.md",
-    "App.md",
-    "React/Animation/Motion.md",
+    "Frontend/App/App Preview Tool.md",
+    "Frontend/React/Animation/Motion.md",
     "Freelance",
-    "React/Animation",
+    "Frontend/React/Animation",
     "Frontend",
     "Backend",
     "DevOps",
     "Tools/Design/Stitch by Google.md",
     "Tools/Design/Superdesign.md",
-    "React",
+    "Frontend/React",
     "AI.md",
     "Github.md",
     "Discovery.md",
@@ -291,7 +292,6 @@
     "Discovery/One Person Business Methodology.md",
     "Tools/Marketing/Pomelli by Google Labs.md",
     "Tools/Design",
-    "Tools/Marketing",
-    "Tools"
+    "Tools/Marketing"
   ]
 }
