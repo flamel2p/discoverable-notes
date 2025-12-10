@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity/Design/Tools.md",
+                "file": "Productivity/Project Management/Tools.md",
                 "mode": "source",
                 "source": false
               },
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Productivity/Design/Tools.md",
+                "file": "Productivity/Project Management/Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Productivity/Design/Tools.md",
+                "file": "Productivity/Project Management/Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Productivity/Design/Tools.md",
+                "file": "Productivity/Project Management/Tools.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -270,10 +270,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8cb51af7d87fc089",
+  "active": "6e6e984450b848c4",
   "lastOpenFiles": [
-    "Productivity/Flow/Untitled 1.md",
     "Productivity/Design/Tools.md",
+    "Productivity/Project Management/Tools.md",
+    "Productivity/Project Management",
+    "Productivity/Flow/Untitled 1.md",
     "Productivity/Flow/Tools.md",
     "Productivity/Design",
     "Productivity/Flow",
@@ -289,7 +291,6 @@
     "DevOps",
     "Tools/Design/Stitch by Google.md",
     "Tools/Design/Superdesign.md",
-    "Frontend/React",
     "AI.md",
     "Github.md",
     "Discovery.md",
