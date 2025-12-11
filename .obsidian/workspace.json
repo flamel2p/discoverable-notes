@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity/Project Management/Tools.md",
+                "file": "News/Tech.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tools"
+              "title": "Tech"
             }
           }
         ],
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Productivity/Project Management/Tools.md",
+                "file": "News/Tech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tools"
+              "title": "Backlinks for Tech"
             }
           },
           {
@@ -198,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Productivity/Project Management/Tools.md",
+                "file": "News/Tech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tools"
+              "title": "Outgoing links from Tech"
             }
           },
           {
@@ -241,13 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Productivity/Project Management/Tools.md",
+                "file": "News/Tech.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tools"
+              "title": "Outline of Tech"
             }
           }
         ]
@@ -272,7 +272,11 @@
   },
   "active": "6e6e984450b848c4",
   "lastOpenFiles": [
+    "News/Finance.md",
+    "News/Tech.md",
+    "News/All-Around.md",
     "Productivity/Design/Tools.md",
+    "News",
     "Productivity/Project Management/Tools.md",
     "Productivity/Project Management",
     "Productivity/Flow/Untitled 1.md",
@@ -288,7 +292,6 @@
     "Frontend/React/Animation",
     "Frontend",
     "Backend",
-    "DevOps",
     "Tools/Design/Stitch by Google.md",
     "Tools/Design/Superdesign.md",
     "AI.md",
