@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity/Project Management/Tools.md",
+                "file": "AI/LLM/Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tools"
+              "title": "Learning"
             }
           }
         ],
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Productivity/Project Management/Tools.md",
+                "file": "AI/LLM/Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tools"
+              "title": "Backlinks for Learning"
             }
           },
           {
@@ -198,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Productivity/Project Management/Tools.md",
+                "file": "AI/LLM/Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tools"
+              "title": "Outgoing links from Learning"
             }
           },
           {
@@ -241,13 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Productivity/Project Management/Tools.md",
+                "file": "AI/LLM/Learning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tools"
+              "title": "Outline of Learning"
             }
           }
         ]
@@ -272,13 +272,16 @@
   },
   "active": "6e6e984450b848c4",
   "lastOpenFiles": [
+    "Productivity/Project Management/Tools.md",
+    "AI/LLM/Learning.md",
+    "AI/LLM",
+    "AI",
     "Productivity/Design/Tools.md",
     "Discovery/Platforms.md",
     "News/Tech.md",
     "News/Finance.md",
     "News/All-Around.md",
     "News",
-    "Productivity/Project Management/Tools.md",
     "Productivity/Project Management",
     "Productivity/Flow/Untitled 1.md",
     "Productivity/Flow/Tools.md",
@@ -291,8 +294,6 @@
     "Frontend/React/Animation/Motion.md",
     "Freelance",
     "Frontend/React/Animation",
-    "Frontend",
-    "Backend",
     "Tools/Design/Stitch by Google.md",
     "Tools/Design/Superdesign.md",
     "AI.md",
