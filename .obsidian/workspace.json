@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/LLM/Learning.md",
+                "file": "Productivity/Design/Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning"
+              "title": "Tools"
             }
           }
         ],
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/LLM/Learning.md",
+                "file": "Productivity/Design/Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Learning"
+              "title": "Backlinks for Tools"
             }
           },
           {
@@ -198,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/LLM/Learning.md",
+                "file": "Productivity/Design/Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Learning"
+              "title": "Outgoing links from Tools"
             }
           },
           {
@@ -241,13 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/LLM/Learning.md",
+                "file": "Productivity/Design/Tools.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Learning"
+              "title": "Outline of Tools"
             }
           }
         ]
@@ -272,8 +272,8 @@
   },
   "active": "6e6e984450b848c4",
   "lastOpenFiles": [
-    "Productivity/Project Management/Tools.md",
     "AI/LLM/Learning.md",
+    "Productivity/Project Management/Tools.md",
     "AI/LLM",
     "AI",
     "Productivity/Design/Tools.md",

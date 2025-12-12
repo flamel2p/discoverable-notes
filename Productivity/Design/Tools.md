@@ -3,3 +3,4 @@
 2. Palettemaker 🔗 https://palettemaker.com/
 3. The Stocks 🔗 https://thestocks.im/
 4. Spectrum by Sachin Dhyani 🔗 https://spectrums.framer.website/
+5. Supahero 🔗 https://www.supahero.io/
