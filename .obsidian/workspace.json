@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discovery/Github Projects.md",
+                "file": "Productivity/Design/Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Github Projects"
+              "title": "Tools"
             }
           }
         ],
@@ -272,8 +272,8 @@
   },
   "active": "6e6e984450b848c4",
   "lastOpenFiles": [
-    "Productivity/Design/Tools.md",
     "Discovery/Github Projects.md",
+    "Productivity/Design/Tools.md",
     "AI/LLM/Learning.md",
     "Productivity/Project Management/Tools.md",
     "AI/LLM",
