@@ -97,16 +97,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity/Design/Tools.md",
+                "file": "Discovery/Github Projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tools"
+              "title": "Github Projects"
+            }
+          },
+          {
+            "id": "f1847288feef82d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/LLM/Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learning"
+            }
+          },
+          {
+            "id": "89def0eef0135c56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Applications.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Applications"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -270,37 +298,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6e6e984450b848c4",
+  "active": "8cb51af7d87fc089",
   "lastOpenFiles": [
-    "Discovery/Github Projects.md",
-    "Productivity/Design/Tools.md",
     "AI/LLM/Learning.md",
+    "AI/Applications.md",
+    "Freelance.md",
+    "Business/Marketing.md",
+    "Tools/Marketing/Pomelli by Google Labs.md",
+    "Discovery/Platforms.md",
+    "Tools/Marketing/Untitled.md",
+    "Business",
+    "Tools/Design/Superdesign.md",
+    "Productivity/Design.md",
+    "Tools/Design/Stitch by Google.md",
+    "News/All-Around.md",
+    "News/Finance.md",
+    "News/Tech.md",
+    "Productivity/Work Flow.md",
+    "Productivity/Design/Tools.md",
+    "Productivity/Flow/Tools.md",
+    "Productivity/Project Management.md",
     "Productivity/Project Management/Tools.md",
+    "Productivity/Workspace/Untitled.md",
+    "Productivity/Workspace",
+    "Discovery/Github Projects.md",
     "AI/LLM",
     "AI",
-    "Discovery/Platforms.md",
-    "News/Tech.md",
-    "News/Finance.md",
-    "News/All-Around.md",
     "News",
     "Productivity/Project Management",
     "Productivity/Flow/Untitled 1.md",
-    "Productivity/Flow/Tools.md",
     "Productivity/Design",
     "Productivity/Flow",
     "Frontend/App/App Preview Tool.md",
     "Productivity",
     "Frontend/App",
-    "Freelance.md",
     "Frontend/React/Animation/Motion.md",
-    "Freelance",
-    "Frontend/React/Animation",
-    "Tools/Design/Stitch by Google.md",
-    "Tools/Design/Superdesign.md",
     "AI.md",
     "Github.md",
-    "Discovery.md",
-    "Discovery/One Person Business Methodology.md",
-    "Tools/Marketing/Pomelli by Google Labs.md"
+    "Discovery.md"
   ]
 }
