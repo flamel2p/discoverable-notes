@@ -8,3 +8,4 @@
 7. Qwen
 8. Z ai
 9. GenSpark 🔗 https://www.genspark.ai/
+10. Rocket 🔗  https://www.rocket.new/
