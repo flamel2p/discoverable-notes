@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Applications.md",
+                "file": "Productivity/Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Applications"
+              "title": "Design"
             }
           }
         ],
@@ -230,13 +230,13 @@
   },
   "active": "a474aa8e18a5cf25",
   "lastOpenFiles": [
+    "AI/Applications.md",
     "AI/LLM/Learning.md",
     "AI/AI Agents.md",
     "Discovery/Github Projects.md",
     "Freelance.md",
     "Productivity/Work Flow.md",
     "Business/Marketing.md",
-    "AI/Applications.md",
     "Tools/Marketing/Pomelli by Google Labs.md",
     "Discovery/Platforms.md",
     "Tools/Marketing/Untitled.md",

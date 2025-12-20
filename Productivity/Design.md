@@ -9,3 +9,4 @@
 	1. Redesign and edit your app with a screenshot or URL
 8. Superdesign 🔗 https://app.superdesign.dev/
 	1. Vibe Design with Real Product
+9. Best Designs on X.com 🔗 https://bestdesignsonx.com/
