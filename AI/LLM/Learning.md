@@ -9,5 +9,5 @@ Skill
 3. Fine-tuning - 模型微调
 
 
-AI Agent
+AI Agents
 https://www.youtube.com/watch?v=OhI005_aJkA&t=2s
