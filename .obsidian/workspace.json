@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity/Design.md",
+                "file": "AI/Applications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design"
+              "title": "Applications"
             }
           }
         ],
@@ -230,6 +230,7 @@
   },
   "active": "a474aa8e18a5cf25",
   "lastOpenFiles": [
+    "Productivity/Design.md",
     "AI/Applications.md",
     "AI/LLM/Learning.md",
     "AI/AI Agents.md",
@@ -242,7 +243,6 @@
     "Tools/Marketing/Untitled.md",
     "Business",
     "Tools/Design/Superdesign.md",
-    "Productivity/Design.md",
     "Tools/Design/Stitch by Google.md",
     "News/All-Around.md",
     "News/Finance.md",

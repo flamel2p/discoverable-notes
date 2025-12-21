@@ -9,3 +9,4 @@
 8. Z ai
 9. GenSpark 🔗 https://www.genspark.ai/
 10. Rocket 🔗  https://www.rocket.new/
+11. n8n 🔗 https://n8n.io/
