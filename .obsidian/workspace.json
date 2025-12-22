@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity/Work Flow.md",
+                "file": "Discovery/Github Projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Work Flow"
+              "title": "Github Projects"
             }
           }
         ],
@@ -230,6 +230,7 @@
   },
   "active": "a474aa8e18a5cf25",
   "lastOpenFiles": [
+    "Productivity/Work Flow.md",
     "Productivity/Project Management.md",
     "Productivity/Design.md",
     "Business/Marketing.md",
@@ -238,7 +239,6 @@
     "AI/AI Agents.md",
     "Discovery/Github Projects.md",
     "Freelance.md",
-    "Productivity/Work Flow.md",
     "Tools/Marketing/Pomelli by Google Labs.md",
     "Discovery/Platforms.md",
     "Tools/Marketing/Untitled.md",
