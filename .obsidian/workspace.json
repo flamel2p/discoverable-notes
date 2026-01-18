@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "News/Tech.md",
+                "file": "Discovery/Github Projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tech"
+              "title": "Github Projects"
             }
           }
         ],
@@ -202,8 +202,10 @@
   },
   "active": "a474aa8e18a5cf25",
   "lastOpenFiles": [
-    "Frontend/React/Animation/Motion.md",
+    "AI/Applications.md",
+    "Business/Marketing.md",
     "News/Tech.md",
+    "Frontend/React/Animation/Motion.md",
     "News/Finance.md",
     "News/All-Around.md",
     "Discovery/Platforms.md",
@@ -212,8 +214,6 @@
     "Productivity/Work Flow.md",
     "Productivity/Project Management.md",
     "Productivity/Design.md",
-    "Business/Marketing.md",
-    "AI/Applications.md",
     "AI/LLM/Learning.md",
     "AI/AI Agents.md",
     "Freelance.md",
