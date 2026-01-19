@@ -14,4 +14,5 @@
 
 ## Branding & Logo
 
-1. https://slea.ai/
+1. SLEA.ai - 🔗 https://slea.ai/
+2. Logo Diffusion - 🔗 https://app.logodiffusion.com/
