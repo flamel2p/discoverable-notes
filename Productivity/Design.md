@@ -10,3 +10,8 @@
 8. Superdesign 🔗 https://app.superdesign.dev/
 	1. Vibe Design with Real Product
 9. Best Designs on X.com 🔗 https://bestdesignsonx.com/
+
+
+## Branding & Logo
+
+1. https://slea.ai/

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discovery/Github Projects.md",
+                "file": "Productivity/Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Github Projects"
+              "title": "Design"
             }
           }
         ],
@@ -202,6 +202,7 @@
   },
   "active": "a474aa8e18a5cf25",
   "lastOpenFiles": [
+    "Discovery/Github Projects.md",
     "AI/Applications.md",
     "Business/Marketing.md",
     "News/Tech.md",
@@ -210,7 +211,6 @@
     "News/All-Around.md",
     "Discovery/Platforms.md",
     "Discovery/One Person Business Methodology.md",
-    "Discovery/Github Projects.md",
     "Productivity/Work Flow.md",
     "Productivity/Project Management.md",
     "Productivity/Design.md",
