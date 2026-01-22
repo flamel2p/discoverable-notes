@@ -10,7 +10,8 @@
 8. Superdesign 🔗 https://app.superdesign.dev/
 	1. Vibe Design with Real Product
 9. Best Designs on X.com 🔗 https://bestdesignsonx.com/
-
+10. Cooler 🔗 https://coolors.co/
+11. Stitch 🔗 https://stitch.withgoogle.com/
 
 ## Branding & Logo
 
