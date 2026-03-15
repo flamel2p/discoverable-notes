@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity/Design.md",
+                "file": "News/All-Around.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design"
+              "title": "All-Around"
             }
           }
         ],
@@ -202,16 +202,16 @@
   },
   "active": "a474aa8e18a5cf25",
   "lastOpenFiles": [
+    "News/Finance.md",
+    "News/All-Around.md",
+    "Productivity/Design.md",
     "Productivity/Work Flow.md",
     "Productivity/Project Management.md",
     "AI/Applications.md",
-    "Productivity/Design.md",
     "Discovery/Github Projects.md",
     "Business/Marketing.md",
     "News/Tech.md",
     "Frontend/React/Animation/Motion.md",
-    "News/Finance.md",
-    "News/All-Around.md",
     "Discovery/Platforms.md",
     "Discovery/One Person Business Methodology.md",
     "AI/LLM/Learning.md",
