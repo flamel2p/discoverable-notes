@@ -12,6 +12,8 @@
 9. Best Designs on X.com 🔗 https://bestdesignsonx.com/
 10. Cooler 🔗 https://coolors.co/
 11. Stitch 🔗 https://stitch.withgoogle.com/
+12. PaywallPro 🔗 https://www.paywallpro.app/
+13. Minimal Gallery 🔗 https://minimal.gallery/
 
 ## Branding & Logo
 
