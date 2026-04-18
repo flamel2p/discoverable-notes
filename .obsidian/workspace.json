@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deployment/Supabase.md",
+                "file": "Deployment/Coolify with Supabase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Supabase"
+              "title": "Coolify with Supabase"
             }
           }
         ],
@@ -203,7 +203,7 @@
   "active": "a474aa8e18a5cf25",
   "lastOpenFiles": [
     "Freelance.md",
-    "Deployment/Supabase.md",
+    "Deployment/Coolify with Supabase.md",
     "Deployment",
     "Discovery/Github Projects.md",
     "Productivity/Design.md",
