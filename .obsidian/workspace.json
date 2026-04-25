@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deployment/Coolify with Supabase.md",
+                "file": "Productivity/Media.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coolify with Supabase"
+              "title": "Media"
             }
           }
         ],
@@ -202,8 +202,9 @@
   },
   "active": "a474aa8e18a5cf25",
   "lastOpenFiles": [
-    "Freelance.md",
     "Deployment/Coolify with Supabase.md",
+    "Productivity/Media.md",
+    "Freelance.md",
     "Deployment",
     "Discovery/Github Projects.md",
     "Productivity/Design.md",
@@ -236,7 +237,6 @@
     "Productivity/Flow/Untitled 1.md",
     "Productivity/Design",
     "Productivity/Flow",
-    "Frontend/App/App Preview Tool.md",
     "Productivity"
   ]
 }
