@@ -10,3 +10,5 @@ https://leonardo.ai/
 https://ideogram.ai/
 
 https://elevenlabs.io/
+
+https://www.minimaxi.com/
