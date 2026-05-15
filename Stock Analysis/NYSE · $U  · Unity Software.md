@@ -2,6 +2,16 @@ Data as of May 15, 2026
 
 ---
 
+## The Catalyst
+
+
+
+
+
+---
+
+## The Fundamentals
+
 #### 1. THE STOCK ITSELF
 
 **Price:** ~$26.36 | **Market Cap:** ~$11.5B [Kraken](https://www.kraken.com/stocks/u)

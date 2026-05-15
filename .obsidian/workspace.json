@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stock Analysis/$U — Unity Software.md",
+                "file": "Stock Analysis/Prompts/Prompt 03 · The Asymmetry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "$U — Unity Software"
+              "title": "Prompt 03 · The Asymmetry"
             }
           }
         ],
@@ -202,10 +202,10 @@
   },
   "active": "a474aa8e18a5cf25",
   "lastOpenFiles": [
-    "Stock Analysis/Prompts/Prompt 03 · The Asymmetry.md",
     "Stock Analysis/Prompts/Prompt 01 · The Catalyst.md",
+    "Stock Analysis/NYSE · $U  · Unity Software.md",
+    "Stock Analysis/Prompts/Prompt 03 · The Asymmetry.md",
     "Stock Analysis/Prompts/Prompt 02 · The Fundamentals.md",
-    "Stock Analysis/$U — Unity Software.md",
     "Stock Analysis/Prompts",
     "Productivity/Design.md",
     "Stock Analysis",
