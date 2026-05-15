@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity/Design.md",
+                "file": "Stock Analysis/$U — Unity Software.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design"
+              "title": "$U — Unity Software"
             }
           }
         ],
@@ -200,13 +200,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8cb51af7d87fc089",
+  "active": "a474aa8e18a5cf25",
   "lastOpenFiles": [
-    "Productivity/Media.md",
+    "Stock Analysis/Prompts/Untitled.md",
+    "Stock Analysis/$U — Unity Software.md",
+    "Stock Analysis/Prompts",
     "Productivity/Design.md",
-    "Deployment/Coolify with Supabase.md",
+    "Stock Analysis",
+    "Productivity/Media.md",
+    "DevOps/Deployment/Coolify with Supabase.md",
     "Freelance.md",
-    "Deployment",
+    "DevOps/Deployment",
     "Discovery/Github Projects.md",
     "News/All-Around.md",
     "News/Finance.md",
@@ -228,15 +232,11 @@
     "Productivity/Design/Tools.md",
     "Productivity/Flow/Tools.md",
     "Productivity/Project Management/Tools.md",
-    "Productivity/Workspace/Untitled.md",
     "Productivity/Workspace",
     "AI/LLM",
     "AI",
     "News",
     "Productivity/Project Management",
-    "Productivity/Flow/Untitled 1.md",
-    "Productivity/Design",
-    "Productivity/Flow",
-    "Productivity"
+    "Productivity/Design"
   ]
 }
