@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Prompt 03 · The Asymmetry"
             }
+          },
+          {
+            "id": "1f0078d2e4eaf5eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stock Analysis/Prompts/Accessories.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Accessories"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,11 +214,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a474aa8e18a5cf25",
+  "active": "1f0078d2e4eaf5eb",
   "lastOpenFiles": [
+    "Stock Analysis/Prompts/Prompt 03 · The Asymmetry.md",
+    "Stock Analysis/Prompts/Accessories.md",
+    "Accessories/Untitled.md",
+    "Accessories",
     "Stock Analysis/Prompts/Prompt 01 · The Catalyst.md",
     "Stock Analysis/NYSE · $U  · Unity Software.md",
-    "Stock Analysis/Prompts/Prompt 03 · The Asymmetry.md",
     "Stock Analysis/Prompts/Prompt 02 · The Fundamentals.md",
     "Stock Analysis/Prompts",
     "Productivity/Design.md",
@@ -230,13 +247,10 @@
     "Tools/Marketing/Untitled.md",
     "Business",
     "Tools/Design/Superdesign.md",
-    "Tools/Design/Stitch by Google.md",
-    "Productivity/Design/Tools.md",
     "Productivity/Workspace",
     "AI/LLM",
     "AI",
     "News",
-    "Productivity/Project Management",
-    "Productivity/Design"
+    "Productivity/Project Management"
   ]
 }
