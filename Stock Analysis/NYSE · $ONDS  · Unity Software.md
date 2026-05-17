@@ -6,3 +6,12 @@ Data as of May 17, 2026
 
 
 ---
+
+
+## (B) The Fundamentals
+
+
+---
+
+
+## (C) The Asymmetry
