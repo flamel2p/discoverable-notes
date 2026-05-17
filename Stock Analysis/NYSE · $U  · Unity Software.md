@@ -2,15 +2,43 @@ Data as of May 15, 2026
 
 ---
 
-## The Catalyst
+## (A) The Catalyst
 
+### 1. Current Setup
 
+- **Price:** $27.28 (May 14, 2026) | **Market cap:** ~$11.7B
+- 30-day: +24.78%; 1-year: +22.62%; 52-week range $16.78–$52.15 [TradingView](https://www.tradingview.com/symbols/NYSE-U/)
+- **Trigger:** May 7 Q1 2026 earnings beat — stock surged off ~$21 base
+
+### 2. The Dominant Narrative
+
+Retail framing: **"Unity is the next AppLovin."** Vector AI ad engine is the new flywheel; runtime data = unmatched moat. TA setup widely shared: double bottom at $16.87, neckline break at $21.20. Retail PT calls cluster at $40–$50, anchoring on BTIG's $43. [TradingView](https://www.tradingview.com/symbols/NYSE-U/)
+
+### 3. The Actual Catalyst
+
+**Q1 2026 results (May 7, 2026):**
+
+- Revenue $508.2M vs $505M consensus; Strategic Revenue $432M, +35% YoY [sec](https://www.sec.gov/Archives/edgar/data/0001810806/000181080626000030/a2026q1ex-991.htm)
+- Vector revenue +80% YoY; Strategic Grow $279M (+49%), 80% Vector-driven; Adj. EBITDA $138M (+65%), 27% margin (+800bps) [The Globe and Mail](https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/1782878/unity-u-q1-2026-earnings-call-transcript/)
+- GAAP profitability pulled forward to Q4 2026 [Investing.com](https://www.investing.com/equities/unity-software-inc)
+- Q2 guide: Strategic Revenue $455–465M (+29–32%); Grow +50–52%; Adj. EBITDA $130–135M [sec](https://www.sec.gov/Archives/edgar/data/0001810806/000181080626000030/a2026q1ex-991.htm)
+- Runtime data graduates to live Vector production models this quarter — management's stated "future catalyst" [Yahoo Finance](https://finance.yahoo.com/quote/US3.MU/earnings/US3.MU-Q1-2026-earnings_call-555092.html)
+
+### 4. Institutional View
+
+- Needham $35→$40 (Buy); BTIG $39→$43 (Buy), 2027 EPS revised from -$0.10 to $0.93; Oppenheimer $32→$38 [Investing.com](https://www.investing.com/news/analyst-ratings/needham-raises-unity-software-stock-price-target-on-vector-growth-93CH-4672559)
+- Wells Fargo $29→$35 (OW); Wedbush $30→$32; Goldman: **Hold reiterated** May 12 [StockAnalysis](https://stockanalysis.com/stocks/u/)
+- Consensus PT $38.09 (~40% upside); 20 analysts, Buy-weighted, 0 Sells [StockAnalysis](https://stockanalysis.com/stocks/u/)
+
+---
+
+**Verdict:** The stock is moving because Vector AI delivered +80% YoY and management pulled GAAP profitability into Q4, but the **~$76M legacy revenue cliff from the ironSource sunset (April 30) and pending Supersonic divestiture** — which keeps Q2 _total_ revenue flat YoY despite strategic +30% — is the part that matters.
 
 
 
 ---
 
-## The Fundamentals
+## (B) The Fundamentals
 
 #### 1. THE STOCK ITSELF
 
@@ -73,3 +101,45 @@ Unity trades at ~5.4x forward EV/Sales vs peer median of **~6x** (ex-APP) = **~1
 ---
 
 > **"If you believe Vector hits $1B+ ARR by end of 2026 and ironSource noise fully clears by Q3, $U is CHEAP versus its peers — growing strategic revenue 2–3x faster than EA and Autodesk while trading at a ~10–20% EV/Sales discount to them, with adj. EBITDA margins tracking toward 30%."**
+
+---
+
+## (C) The Asymmetry
+
+### 1. Retail Sentiment
+
+**Dominant tone: Bullish, recently flipped.** StockTwits sentiment jumped to "extremely bullish" from "bearish" with message volume going "extremely high" after the Feb guide-down crash, then re-confirmed on the May 7 Q1 beat. [Stocktwits](https://stocktwits.com/news-articles/markets/equity/unity-down-34-after-downbeat-guidance-but-retail-says-turnaround-to-profitability-and-revenue-growth-is-intact/cZb61JhR4AP)
+
+- **Bull takes (themes):** (1) Turnaround intact — Vector AI growth + accelerated GAAP profitability target to Q4 2026; (2) Vector growth rapid and accelerating, Create business returning, exceptional FCF conversion; (3) Meta multi-year partnership = locked-in XR moat. [TipRanks](https://www.tipranks.com/stocks/u)
+- **Bear takes (themes):** (1) IronSource/Supersonic sunset will hit FY26 revenue line harder than guided; (2) EV/EBITDA 134x — priced for perfection; (3) Pre-earnings put/call ratio of 1.83, 3x normal volume — institutional hedging into print; insider selling $0.8M, zero buys in 3 months. [GuruFocus](https://www.gurufocus.com/news/8810033/unity-software-u-option-traders-show-moderate-bearish-sentiment)
+
+**Split, not uniform.** Retail extremely bullish, options desk skeptical = healthy disagreement, not a crowded trade.
+
+### 2. Analyst Projections
+
+- **Coverage:** 16–18 analysts | **Consensus: Buy** (16 Buy / 0 Sell)
+- **PT median: $34.35 | High: $43 | Low: $19** → ~26% upside from spot
+- **Last 30 days (all post-Q1 raises):** Oppenheimer $32→$38, Needham $35→$40, Morgan Stanley $32→$35, Jefferies $30→$34, Barclays $28→$33, Wedbush $30→$32; Goldman reaffirmed Hold [CNN](https://www.cnn.com/markets/stocks/U)
+- **FY26E rev ~$2.05B (+13%) | FY27E rev ~$2.30B (+12%) | FY26 adj EBITDA margin expanding to ~25–27%**
+
+### 3. Price Scenarios
+
+|Scenario|Target|%|Trigger|
+|---|---|---|---|
+|**Bear (3–6mo)**|**$19**|-30%|Q2 (Aug 11) miss + IronSource decline accelerates; retest analyst low|
+|**Base (6–12mo)**|**$34**|+25%|Consensus holds, GAAP profit Q4'26 on track|
+|**Bull (12–18mo)**|**$43**|+58%|Vector AI re-rate, Grow segment compounds 40%+|
+|**Stretched Bull (24mo)**|**$52**|+91%|AI multiple expansion to 8–10x sales on $2.5B rev|
+
+**R/R from spot: -$8 / +$15–25 → ~2:1 base, ~3:1 bull.**
+
+### 4. Trade Plan
+
+- **Entry: $24–25** (post-earnings base, prior breakout retest)
+- **First trim (25%): $34** — consensus PT
+- **Second trim (35%): $42–43** — analyst high cluster
+- **Hard stop: $19** — below lowest analyst PT + 52w technical structure; thesis dead
+
+---
+
+**This is a TRADE because Unity is a high-beta sentiment vehicle (3x range in 12 months, 134x EV/EBITDA) riding an AI re-rating narrative, not a compounder. The Vector catalyst is real but unproven at scale, and IronSource overhang caps multi-year conviction. Take the asymmetry, don't marry it.**
