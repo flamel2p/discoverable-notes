@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stock Analysis/NYSE · $U  · Unity Software.md",
+                "file": "Stock Analysis/NYSE · $U · Unity Software.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NYSE · $U  · Unity Software"
+              "title": "NYSE · $U · Unity Software"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stock Analysis/NYSE · $ONDS  · Unity Software.md",
+                "file": "Stock Analysis/Prompts/Prompt 02 · The Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NYSE · $ONDS  · Unity Software"
+              "title": "Prompt 02 · The Fundamentals"
             }
           }
         ],
@@ -230,13 +230,13 @@
   },
   "active": "ff2b5e91890572b7",
   "lastOpenFiles": [
-    "Stock Analysis/NYSE · $U  · Unity Software.md",
-    "Stock Analysis/NYSE · $ONDS  · Unity Software.md",
+    "Stock Analysis/Prompts/Prompt 01 · The Catalyst.md",
+    "Stock Analysis/NYSE · $ONDS · Ondas.md",
+    "Stock Analysis/NYSE · $U · Unity Software.md",
     "Stock Analysis/Prompts/Prompt 03 · The Asymmetry.md",
     "Stock Analysis/Prompts/Accessories.md",
     "Accessories/Untitled.md",
     "Accessories",
-    "Stock Analysis/Prompts/Prompt 01 · The Catalyst.md",
     "Stock Analysis/Prompts/Prompt 02 · The Fundamentals.md",
     "Stock Analysis/Prompts",
     "Productivity/Design.md",
