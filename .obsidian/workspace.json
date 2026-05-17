@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stock Analysis/Prompts/Prompt 03 · The Asymmetry.md",
+                "file": "Accessories.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt 03 · The Asymmetry"
+              "title": "Accessories"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spe",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -228,14 +228,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ff2b5e91890572b7",
+  "active": "8cb51af7d87fc089",
   "lastOpenFiles": [
+    "Freelance.md",
+    "Stock Analysis/Prompts/Prompt 03 · The Asymmetry.md",
     "Stock Analysis/Prompts/Prompt 02 · The Fundamentals.md",
     "Stock Analysis/Prompts/Prompt 01 · The Catalyst.md",
     "Stock Analysis/NYSE · $ONDS · Ondas.md",
     "Stock Analysis/NYSE · $U · Unity Software.md",
-    "Stock Analysis/Prompts/Prompt 03 · The Asymmetry.md",
-    "Stock Analysis/Prompts/Accessories.md",
+    "Accessories.md",
     "Accessories/Untitled.md",
     "Accessories",
     "Stock Analysis/Prompts",
@@ -243,7 +244,6 @@
     "Stock Analysis",
     "Productivity/Media.md",
     "DevOps/Deployment/Coolify with Supabase.md",
-    "Freelance.md",
     "DevOps/Deployment",
     "Discovery/Github Projects.md",
     "News/All-Around.md",
