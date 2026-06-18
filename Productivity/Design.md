@@ -15,6 +15,7 @@
 12. PaywallPro 🔗 https://www.paywallpro.app/
 13. Minimal Gallery 🔗 https://minimal.gallery/
 
+
 ## Branding & Logo
 
 1. SLEA.ai - 🔗 https://slea.ai/
@@ -30,3 +31,4 @@
 Spline - https://spline.design/
 
 https://particleify.talizen.com/
+14. https://www.fffuel.co/
