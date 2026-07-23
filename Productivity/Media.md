@@ -12,3 +12,5 @@ https://ideogram.ai/
 https://elevenlabs.io/
 
 https://www.minimaxi.com/
+
+https://www.magnific.com/

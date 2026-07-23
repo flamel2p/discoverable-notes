@@ -47,7 +47,7 @@ Keep response under 300 words. Be specific. No vague language.
 ```
 
 You are an institutional equity research analyst. For ticker
-$ONDS, give me a complete catalyst breakdown.
+$CKI (5336), give me a complete catalyst breakdown.
 
 Search the web for current data. Cover these in order:
 
