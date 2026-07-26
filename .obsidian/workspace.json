@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity/Design.md",
+                "file": "Productivity/Media.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design"
+              "title": "Media"
             }
           },
           {
@@ -215,8 +215,8 @@
   },
   "active": "a474aa8e18a5cf25",
   "lastOpenFiles": [
-    "Stock Analysis/Prompts/Prompt 03 · The Asymmetry.md",
     "Productivity/Design.md",
+    "Stock Analysis/Prompts/Prompt 03 · The Asymmetry.md",
     "Productivity/Media.md",
     "Productivity/Work Flow.md",
     "Stock Analysis/NYSE · $U · Unity Software.md",
