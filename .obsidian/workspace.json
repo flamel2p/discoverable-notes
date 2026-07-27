@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity/Media.md",
+                "file": "AI/Github.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Media"
+              "title": "Github"
             }
           },
           {
@@ -215,9 +215,11 @@
   },
   "active": "a474aa8e18a5cf25",
   "lastOpenFiles": [
+    "AI/LLM/Learning.md",
+    "AI/Github.md",
+    "Productivity/Media.md",
     "Productivity/Design.md",
     "Stock Analysis/Prompts/Prompt 03 · The Asymmetry.md",
-    "Productivity/Media.md",
     "Productivity/Work Flow.md",
     "Stock Analysis/NYSE · $U · Unity Software.md",
     "Stock Analysis/NYSE · $ONDS · Ondas.md",
@@ -243,9 +245,7 @@
     "News/Tech.md",
     "Discovery/Platforms.md",
     "Discovery/One Person Business Methodology.md",
-    "AI/LLM/Learning.md",
     "AI/AI Agents.md",
-    "Tools/Marketing/Pomelli by Google Labs.md",
     "Business",
     "Productivity/Workspace",
     "AI/LLM",
