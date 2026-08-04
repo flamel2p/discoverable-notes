@@ -22,10 +22,11 @@
 2. https://bestfreefonts.com/
 
 
-## Branding & Logo
+## Branding
 
 1. SLEA.ai - 🔗 https://slea.ai/
 2. Logo Diffusion - 🔗 https://app.logodiffusion.com/
+3. https://logosystem.co/
 
 
 ## Icons
@@ -57,4 +58,12 @@ https://astryx.atmeta.com/
 
 ## Inspiration
 
-1. https://mobbin.com/
+1. https://www.pinterest.com/
+2. https://dribbble.com/
+3. https://www.behance.net/
+4. 1. https://mobbin.com/
+
+
+## Creative Assets
+
+1. https://uppbeat.io/
