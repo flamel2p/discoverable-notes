@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity/Design.md",
+                "file": "AI/Courses & Certificates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design"
+              "title": "Courses & Certificates"
             }
           }
         ]
@@ -189,8 +189,8 @@
   },
   "active": "a474aa8e18a5cf25",
   "lastOpenFiles": [
-    "Productivity/Media.md",
     "Productivity/Design.md",
+    "Productivity/Media.md",
     "Frontend/React/Animation.md",
     "Frontend/React/Animation/Motion.md",
     "Accessories.md",
