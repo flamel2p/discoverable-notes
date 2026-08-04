@@ -17,11 +17,26 @@
 14. https://recent.design/
 
 
+## AI Creative Tools
+
+1. Suno 🔗 https://suno.com/
+2. https://www.pixellab.ai/
+3. https://leonardo.ai/
+4. https://ideogram.ai/
+5. https://elevenlabs.io/
+6. https://www.minimaxi.com/
+7. https://www.magnific.com/
+8. https://capafy.ai/agent/odeo-maker/1382595818
+9. https://clipy.online/
+
 ## Typography
 
 1. https://fonts.google.com/
 2. https://bestfreefonts.com/
 3. https://www.freefaces.gallery/
+4. https://www.fontspace.com/
+5. https://www.fontfabric.com/
+6. https://colorhunt.co/
 
 
 ## Branding
@@ -33,7 +48,9 @@
 
 ## Icons
 
-1. 
+1. https://app.iconsax.io/
+
+I
 
 
 ## Animation
@@ -68,9 +85,20 @@ https://astryx.atmeta.com/
 4. https://mobbin.com/
 5. https://www.cosmos.so/
 6. https://pafolios.com/
+7. https://www.awwwards.com/
 
 
 ## Creative Assets
 
-1. https://uppbeat.io/
-2. https://grainient.supply/
+1. https://unsplash.com/
+2. https://blush.design/
+3. https://uppbeat.io/
+4. https://www.pexels.com/
+5. https://pixabay.com/
+6. https://kaboompics.com/
+7. https://grainient.supply/
+8. https://www.lummi.ai/
+9. https://undraw.co/
+10. https://www.drawkit.com/
+11. https://www.uistore.design/
+12. https://www.istockphoto.com/
