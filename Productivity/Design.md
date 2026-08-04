@@ -14,12 +14,14 @@
 11. Stitch 🔗 https://stitch.withgoogle.com/
 12. PaywallPro 🔗 https://www.paywallpro.app/
 13. Minimal Gallery 🔗 https://minimal.gallery/
+14. https://recent.design/
 
 
 ## Typography
 
 1. https://fonts.google.com/
 2. https://bestfreefonts.com/
+3. https://www.freefaces.gallery/
 
 
 ## Branding
@@ -37,6 +39,8 @@
 ## Animation
 
 1. Remotion - 🔗 https://www.remotion.dev/
+2. https://jitter.video/
+3. https://motion.so/
 
 
 
@@ -63,8 +67,10 @@ https://astryx.atmeta.com/
 3. https://www.behance.net/
 4. https://mobbin.com/
 5. https://www.cosmos.so/
+6. https://pafolios.com/
 
 
 ## Creative Assets
 
 1. https://uppbeat.io/
+2. https://grainient.supply/
