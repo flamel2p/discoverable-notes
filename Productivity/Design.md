@@ -16,6 +16,9 @@
 13. Minimal Gallery 🔗 https://minimal.gallery/
 
 
+## Typography
+
+
 ## Branding & Logo
 
 1. SLEA.ai - 🔗 https://slea.ai/
