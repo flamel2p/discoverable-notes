@@ -18,6 +18,9 @@
 
 ## Typography
 
+1. https://fonts.google.com/
+2. https://bestfreefonts.com/
+
 
 ## Branding & Logo
 
@@ -25,7 +28,13 @@
 2. Logo Diffusion - 🔗 https://app.logodiffusion.com/
 
 
+## Icons
+
+1. 
+
+
 ## Animation
+
 1. Remotion - 🔗 https://www.remotion.dev/
 
 
