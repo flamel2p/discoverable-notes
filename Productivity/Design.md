@@ -36,7 +36,9 @@
 3. https://www.freefaces.gallery/
 4. https://www.fontspace.com/
 5. https://www.fontfabric.com/
-6. https://colorhunt.co/
+6. https://www.fontshare.com/
+7. https://colorhunt.co/
+8. https://getdesign.md/
 
 
 ## Branding
@@ -62,10 +64,7 @@ I
 
 
 https://particleify.talizen.com/
-
 https://www.fffuel.co/
-
-https://getdesign.md/
 
 https://astryx.atmeta.com/
 
@@ -74,6 +73,8 @@ https://astryx.atmeta.com/
 
 1. https://cavalry.studio/
 2. https://spline.design/
+3. https://animejs.com/
+4. https://reactbits.dev/
 
 
 
@@ -86,6 +87,7 @@ https://astryx.atmeta.com/
 5. https://www.cosmos.so/
 6. https://pafolios.com/
 7. https://www.awwwards.com/
+8. https://muz.li/
 
 
 ## Creative Assets
