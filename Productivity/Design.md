@@ -53,7 +53,6 @@
 
 1. https://app.iconsax.io/
 2. https://iconoir.com/
-I
 
 
 ## Animation
