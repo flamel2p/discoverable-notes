@@ -27,9 +27,6 @@
 
 
 
-
-Spline - https://spline.design/
-
 https://particleify.talizen.com/
 
 https://www.fffuel.co/
@@ -37,3 +34,15 @@ https://www.fffuel.co/
 https://getdesign.md/
 
 https://astryx.atmeta.com/
+
+
+## Tools
+
+1. https://cavalry.studio/
+2. https://spline.design/
+
+
+
+## Inspiration
+
+1. https://mobbin.com/
