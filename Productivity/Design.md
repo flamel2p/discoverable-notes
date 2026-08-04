@@ -9,7 +9,7 @@
 	1. Redesign and edit your app with a screenshot or URL
 8. Superdesign 🔗 https://app.superdesign.dev/
 	1. Vibe Design with Real Product
-9. Best Designs on X.com 🔗 https://bestdesignsonx.com/
+9. 
 10. 
 11. Stitch 🔗 https://stitch.withgoogle.com/
 12. PaywallPro 🔗 https://www.paywallpro.app/
@@ -89,6 +89,7 @@ https://astryx.atmeta.com/
 6. https://pafolios.com/
 7. https://www.awwwards.com/
 8. https://muz.li/
+9. Best Designs on X.com 🔗 https://bestdesignsonx.com/
 
 
 ## Creative Assets
