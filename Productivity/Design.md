@@ -10,7 +10,7 @@
 8. Superdesign 🔗 https://app.superdesign.dev/
 	1. Vibe Design with Real Product
 9. Best Designs on X.com 🔗 https://bestdesignsonx.com/
-10. Cooler 🔗 https://coolors.co/
+10. 
 11. Stitch 🔗 https://stitch.withgoogle.com/
 12. PaywallPro 🔗 https://www.paywallpro.app/
 13. Minimal Gallery 🔗 https://minimal.gallery/
@@ -38,7 +38,8 @@
 5. https://www.fontfabric.com/
 6. https://www.fontshare.com/
 7. https://colorhunt.co/
-8. https://getdesign.md/
+8. Cooler 🔗 https://coolors.co/
+9. https://getdesign.md/
 
 
 ## Branding
@@ -51,7 +52,7 @@
 ## Icons
 
 1. https://app.iconsax.io/
-
+2. https://iconoir.com/
 I
 
 
