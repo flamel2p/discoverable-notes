@@ -15,7 +15,7 @@
 12. PaywallPro 🔗 https://www.paywallpro.app/
 13. Minimal Gallery 🔗 https://minimal.gallery/
 14. https://recent.design/
-
+15. https://particleify.talizen.com/
 
 ## AI Creative Tools
 
@@ -63,9 +63,7 @@
 
 
 
-https://particleify.talizen.com/
 https://www.fffuel.co/
-
 https://astryx.atmeta.com/
 
 
