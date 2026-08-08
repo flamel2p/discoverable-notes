@@ -9,13 +9,11 @@
 	1. Redesign and edit your app with a screenshot or URL
 8. Superdesign 🔗 https://app.superdesign.dev/
 	1. Vibe Design with Real Product
-9. 
-10. 
-11. Stitch 🔗 https://stitch.withgoogle.com/
-12. PaywallPro 🔗 https://www.paywallpro.app/
-13. Minimal Gallery 🔗 https://minimal.gallery/
-14. https://recent.design/
-15. https://particleify.talizen.com/
+9. Stitch 🔗 https://stitch.withgoogle.com/
+10. PaywallPro 🔗 https://www.paywallpro.app/
+11. Minimal Gallery 🔗 https://minimal.gallery/
+12. https://recent.design/
+13. https://particleify.talizen.com/
 
 ## AI Creative Tools
 
@@ -28,6 +26,7 @@
 7. https://www.magnific.com/
 8. https://capafy.ai/agent/odeo-maker/1382595818
 9. https://clipy.online/
+10. https://higgsfield.ai/
 
 ## Typography
 
@@ -56,17 +55,15 @@
 2. https://iconoir.com/
 
 
+## Images
+
+1. https://www.fffuel.co/
+
 ## Animation
 
 1. Remotion - 🔗 https://www.remotion.dev/
 2. https://jitter.video/
 3. https://motion.so/
-
-
-
-https://www.fffuel.co/
-https://astryx.atmeta.com/
-
 
 ## Tools
 
@@ -75,8 +72,6 @@ https://astryx.atmeta.com/
 3. https://animejs.com/
 4. https://reactbits.dev/
 5. https://jitter.video/
-
-
 
 ## Inspiration
 
@@ -106,3 +101,4 @@ https://astryx.atmeta.com/
 11. https://www.uistore.design/
 12. https://www.istockphoto.com/
 13. https://craftwork.design/
+
