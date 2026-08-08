@@ -87,6 +87,7 @@
 7. https://www.awwwards.com/
 8. https://muz.li/
 9. Best Designs on X.com 🔗 https://bestdesignsonx.com/
+10. https://siiimple.com/
 
 
 ## Creative Assets
