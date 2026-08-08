@@ -72,6 +72,7 @@
 3. https://animejs.com/
 4. https://reactbits.dev/
 5. https://jitter.video/
+6. https://www.lottielab.com/
 
 ## Inspiration
 
