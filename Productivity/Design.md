@@ -40,6 +40,7 @@
 7. https://colorhunt.co/
 8. Cooler 🔗 https://coolors.co/
 9. https://getdesign.md/
+10. https://www.khroma.co/
 
 
 ## Branding
@@ -104,3 +105,4 @@ https://astryx.atmeta.com/
 10. https://www.drawkit.com/
 11. https://www.uistore.design/
 12. https://www.istockphoto.com/
+13. https://craftwork.design/
