@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a474aa8e18a5cf25",
+            "id": "2261cc7e8f310f53",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -187,11 +187,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a474aa8e18a5cf25",
+  "active": "2261cc7e8f310f53",
   "lastOpenFiles": [
+    "Productivity/Design.md",
     "Productivity/Project Management.md",
     "Frontend/React/Toolkits.md",
-    "Productivity/Design.md",
     "AI/Courses & Certificates.md",
     "Productivity/Media.md",
     "Frontend/React/Animation/Motion.md",
