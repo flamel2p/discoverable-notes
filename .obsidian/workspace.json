@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/LLM/Learning.md",
+                "file": "AI/SKILLS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning"
+              "title": "SKILLS"
             }
           }
         ]
@@ -189,6 +189,7 @@
   },
   "active": "2261cc7e8f310f53",
   "lastOpenFiles": [
+    "AI/LLM/Learning.md",
     "AI/Github.md",
     "AI/Courses & Certificates.md",
     "AI/Applications.md",
@@ -204,7 +205,6 @@
     "Licenses/Malaysia.md",
     "Stock Analysis/NYSE · $U · Unity Software.md",
     "Licenses",
-    "AI/LLM/Learning.md",
     "Stock Analysis/Prompts/Prompt 03 · The Asymmetry.md",
     "Productivity/Work Flow.md",
     "Stock Analysis/NYSE · $ONDS · Ondas.md",
