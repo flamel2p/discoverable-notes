@@ -88,7 +88,7 @@
 8. https://muz.li/
 9. Best Designs on X.com 🔗 https://bestdesignsonx.com/
 10. https://siiimple.com/
-
+11. https://designmd.ai/
 
 ## Creative Assets
 
