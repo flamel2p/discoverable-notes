@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity/Design.md",
+                "file": "AI/LLM/Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design"
+              "title": "Learning"
             }
           }
         ]
@@ -189,20 +189,21 @@
   },
   "active": "2261cc7e8f310f53",
   "lastOpenFiles": [
+    "AI/Github.md",
+    "AI/Courses & Certificates.md",
+    "AI/Applications.md",
+    "AI/AI Agents.md",
+    "AI/SKILLS.md",
     "Productivity/Design.md",
     "Productivity/Project Management.md",
     "Frontend/React/Toolkits.md",
-    "AI/Courses & Certificates.md",
     "Productivity/Media.md",
     "Frontend/React/Animation/Motion.md",
     "Accessories.md",
     "Freelance.md",
-    "AI/SKILLS.md",
     "Licenses/Malaysia.md",
     "Stock Analysis/NYSE · $U · Unity Software.md",
-    "AI/Applications.md",
     "Licenses",
-    "AI/Github.md",
     "AI/LLM/Learning.md",
     "Stock Analysis/Prompts/Prompt 03 · The Asymmetry.md",
     "Productivity/Work Flow.md",
@@ -220,7 +221,6 @@
     "Discovery/Github Projects.md",
     "News/All-Around.md",
     "News/Finance.md",
-    "Business/Marketing.md",
     "Business",
     "Productivity/Workspace",
     "AI/LLM",
