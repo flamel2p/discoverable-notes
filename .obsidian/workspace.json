@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/SKILLS.md",
+                "file": "Productivity/Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SKILLS"
+              "title": "Design"
             }
           }
         ]
@@ -189,15 +189,15 @@
   },
   "active": "2261cc7e8f310f53",
   "lastOpenFiles": [
+    "Frontend/React/Toolkits.md",
+    "AI/SKILLS.md",
     "AI/LLM/Learning.md",
     "AI/Github.md",
     "AI/Courses & Certificates.md",
     "AI/Applications.md",
     "AI/AI Agents.md",
-    "AI/SKILLS.md",
     "Productivity/Design.md",
     "Productivity/Project Management.md",
-    "Frontend/React/Toolkits.md",
     "Productivity/Media.md",
     "Frontend/React/Animation/Motion.md",
     "Accessories.md",

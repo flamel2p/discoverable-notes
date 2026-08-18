@@ -89,6 +89,7 @@
 9. Best Designs on X.com 🔗 https://bestdesignsonx.com/
 10. https://siiimple.com/
 11. https://designmd.ai/
+12. https://ui8.net
 
 ## Creative Assets
 
