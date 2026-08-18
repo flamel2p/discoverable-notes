@@ -108,3 +108,8 @@
 14. https://metalforge.xyz/   😍
 15. https://reactbits.dev/  😍
 
+
+## AI Tools for building web
+
+1. https://www.getlayers.ai/
+2. https://superdesign.dev/
