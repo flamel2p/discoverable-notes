@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "616",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,7 +188,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2261cc7e8f310f53",
+  "active": "729a9d84ea79f3e0",
   "lastOpenFiles": [
     "Frontend/React/Toolkits.md",
     "AI/SKILLS.md",
