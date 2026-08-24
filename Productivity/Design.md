@@ -15,6 +15,7 @@
 10. Minimal Gallery 🔗 https://minimal.gallery/
 11. https://recent.design/
 12. https://particleify.talizen.com/
+13. 
 
 ## AI Creative Tools
 
@@ -28,6 +29,7 @@
 8. https://capafy.ai/agent/odeo-maker/1382595818
 9. https://clipy.online/
 10. https://higgsfield.ai/
+11. https://www.aura.build/
 
 ## Typography
 

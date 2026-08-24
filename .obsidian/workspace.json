@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7e3ca0d82c421733",
+        "id": "6c000a13efd3c0d3",
         "type": "tabs",
         "children": [
           {
-            "id": "0edaddef322f7216",
+            "id": "3d2839f63e17b65b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.7"
+                "file": "Productivity/Design.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
+              "icon": "lucide-file",
+              "title": "Design"
             }
           }
         ]
@@ -88,7 +90,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -199,7 +202,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0edaddef322f7216",
+  "active": "3d2839f63e17b65b",
   "lastOpenFiles": [
     "Frontend/React/Toolkits.md",
     "AI/SKILLS.md",
