@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity/Design.md",
+                "file": "Backend/Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design"
+              "title": "Data"
             }
           }
         ]
@@ -204,6 +204,8 @@
   },
   "active": "3d2839f63e17b65b",
   "lastOpenFiles": [
+    "Productivity/Design.md",
+    "Backend/Data.md",
     "Frontend/React/Toolkits.md",
     "AI/SKILLS.md",
     "AI/LLM/Learning.md",
@@ -211,7 +213,6 @@
     "AI/Courses & Certificates.md",
     "AI/Applications.md",
     "AI/AI Agents.md",
-    "Productivity/Design.md",
     "Productivity/Project Management.md",
     "Productivity/Media.md",
     "Frontend/React/Animation/Motion.md",
@@ -235,7 +236,6 @@
     "DevOps/Deployment",
     "Discovery/Github Projects.md",
     "News/All-Around.md",
-    "News/Finance.md",
     "Business",
     "Productivity/Workspace",
     "AI/LLM",
