@@ -15,3 +15,6 @@ https://github.com/avelino/awesome-go
 https://github.com/mahseema/awesome-ai-tools
 
 https://github.com/enescingoz/awesome-n8n-templates
+
+
+https://github.com/Lightricks/LTX-Desktop

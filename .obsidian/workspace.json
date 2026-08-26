@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Data.md",
+                "file": "AI/Github.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data"
+              "title": "Github"
             }
           }
         ]
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "616",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,10 +204,10 @@
   },
   "active": "3d2839f63e17b65b",
   "lastOpenFiles": [
+    "AI/SKILLS.md",
     "Productivity/Design.md",
     "Backend/Data.md",
     "Frontend/React/Toolkits.md",
-    "AI/SKILLS.md",
     "AI/LLM/Learning.md",
     "AI/Github.md",
     "AI/Courses & Certificates.md",
