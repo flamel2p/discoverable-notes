@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/#01 - Tech Stacks.md",
+                "file": "Tech Stacks/Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "#01 - Tech Stacks"
+              "title": "Java"
             }
           }
         ]
@@ -202,14 +202,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3d2839f63e17b65b",
+  "active": "8cb51af7d87fc089",
   "lastOpenFiles": [
+    "Infrastructures",
+    "Tech Stacks/Java.md",
+    "Tech Stacks/Infrastructures.md",
+    "Tech Stacks/Golang.md",
+    "Tech Stacks/Typescript.md",
+    "Tech Stacks/Javascript.md",
+    "Frontend/#01 - Tech Stacks.md",
+    "Tech Stacks",
     "Backend/#04 - Architecture.md",
     "Backend/#02 - Databases.md",
     "Backend/#03 - Infrastructures.md",
     "Backend/#01 - Tech Stacks.md",
     "Frontend/App Preview Tool.md",
-    "Frontend/#01 - Tech Stacks.md",
     "AI/Github.md",
     "AI/SKILLS.md",
     "Productivity/Design.md",
@@ -224,21 +231,14 @@
     "Accessories.md",
     "Freelance.md",
     "Licenses/Malaysia.md",
-    "Stock Analysis/NYSE · $U · Unity Software.md",
     "Licenses",
-    "Stock Analysis/Prompts/Prompt 03 · The Asymmetry.md",
-    "Productivity/Work Flow.md",
-    "Stock Analysis/NYSE · $ONDS · Ondas.md",
-    "Frontend/Assets.md",
     "Frontend/Asset",
-    "Stock Analysis/Prompts/Prompt 02 · The Fundamentals.md",
     "Accessories",
     "Stock Analysis/Prompts",
     "Stock Analysis",
     "DevOps/Deployment",
     "Business",
     "Productivity/Workspace",
-    "AI/LLM",
-    "AI"
+    "AI/LLM"
   ]
 }
