@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/App Preview Tool.md",
+                "file": "Frontend/#01 - Tech Stacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "App Preview Tool"
+              "title": "#01 - Tech Stacks"
             }
           }
         ]
@@ -202,16 +202,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8cb51af7d87fc089",
+  "active": "3d2839f63e17b65b",
   "lastOpenFiles": [
+    "Backend/#04 - Architecture.md",
+    "Backend/#02 - Databases.md",
+    "Backend/#03 - Infrastructures.md",
+    "Backend/#01 - Tech Stacks.md",
+    "Frontend/App Preview Tool.md",
     "Frontend/#01 - Tech Stacks.md",
-    "Backend/Infrastructures.md",
-    "Backend/Tech Stacks.md",
-    "Backend/Architecture.md",
     "AI/Github.md",
     "AI/SKILLS.md",
     "Productivity/Design.md",
-    "Backend/Data.md",
     "Frontend/React/Toolkits.md",
     "AI/LLM/Learning.md",
     "AI/Courses & Certificates.md",
@@ -231,7 +232,6 @@
     "Frontend/Assets.md",
     "Frontend/Asset",
     "Stock Analysis/Prompts/Prompt 02 · The Fundamentals.md",
-    "Stock Analysis/Prompts/Prompt 01 · The Catalyst.md",
     "Accessories",
     "Stock Analysis/Prompts",
     "Stock Analysis",
