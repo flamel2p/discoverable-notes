@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Productivity/Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Design"
             }
           }
         ],
@@ -219,7 +219,9 @@
   },
   "active": "8f0de8981eb1a4f9",
   "lastOpenFiles": [
+    "Business/Marketing.md",
     "Freelance.md",
+    "Accessories.md",
     "Untitled.md",
     "Tech Stacks/Infrastructures.md",
     "Infrastructures",
@@ -245,8 +247,6 @@
     "Productivity/Project Management.md",
     "Productivity/Media.md",
     "Frontend/React/Animation/Motion.md",
-    "Accessories.md",
-    "Licenses/Malaysia.md",
     "Licenses",
     "Frontend/Asset",
     "Accessories",
