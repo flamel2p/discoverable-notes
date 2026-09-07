@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity/Design.md",
+                "file": "AI/Courses & Certificates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design"
+              "title": "Courses & Certificates"
             }
           }
         ],
@@ -219,6 +219,7 @@
   },
   "active": "8f0de8981eb1a4f9",
   "lastOpenFiles": [
+    "Productivity/Design.md",
     "Business/Marketing.md",
     "Freelance.md",
     "Accessories.md",
@@ -238,7 +239,6 @@
     "Frontend/App Preview Tool.md",
     "AI/Github.md",
     "AI/SKILLS.md",
-    "Productivity/Design.md",
     "Frontend/React/Toolkits.md",
     "AI/LLM/Learning.md",
     "AI/Courses & Certificates.md",
