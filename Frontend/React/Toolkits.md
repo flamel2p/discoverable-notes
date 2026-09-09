@@ -8,3 +8,4 @@
 
 ## UI Frameworks
 https://astryx.atmeta.com/
+https://ui.shadcn.com/
