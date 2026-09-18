@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Freelance.md",
+                "file": "Business/Marketing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Freelance"
+              "title": "Marketing"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/SKILLS.md",
+                "file": "Licenses/Malaysia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SKILLS"
+              "title": "Malaysia"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 244.8515625
   },
   "right": {
     "id": "ddf4feba55d3e3c1",
@@ -217,14 +216,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8f0de8981eb1a4f9",
+  "active": "8cb51af7d87fc089",
   "lastOpenFiles": [
-    "Frontend/React/Toolkits.md",
+    "Freelance.md",
+    "Licenses/Malaysia.md",
     "AI/SKILLS.md",
+    "Frontend/React/Toolkits.md",
     "Productivity/Design.md",
     "AI/Courses & Certificates.md",
     "Business/Marketing.md",
-    "Freelance.md",
     "Accessories.md",
     "Untitled.md",
     "Tech Stacks/Infrastructures.md",
@@ -246,7 +246,6 @@
     "AI/AI Agents.md",
     "Productivity/Project Management.md",
     "Productivity/Media.md",
-    "Frontend/React/Animation/Motion.md",
     "Licenses",
     "Frontend/Asset",
     "Accessories",
