@@ -1,0 +1,13 @@
+.DS_Store
+.trash/
+.audit/
+__pycache__/
+*.pyc
+.obsidian/workspace*.json
+.obsidian/cache/
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+.obsidian/plugins/*/obsidian_askpass.sh
+.env
+.env.*
+!.env.example

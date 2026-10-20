@@ -1,5 +1,8 @@
 {
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "promptDelete": false,
-  "trashOption": "local"
+  "trashOption": "local",
+  "newFileFolderPath": "00 Inbox",
+  "attachmentFolderPath": "99 System/Attachments",
+  "alwaysUpdateLinks": true
 }
